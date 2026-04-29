@@ -9,7 +9,7 @@
 
 # Introduction 
 
-_Data science projects and statistcs leanring._
+_Data science projects and statistics leanring._
 
 </header>
 
